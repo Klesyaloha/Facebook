@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "meta_logo_monoWhite.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "meta_logo_monoWhite 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "meta_logo_monoWhite 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
